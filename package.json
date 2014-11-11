@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SpiderStrategies/node-tweet-stream"
+    "url": "https://github.com/simion314/node-tweet-stream.git"
   },
   "author": "Nathan Bowser <nathan.bowser@spiderstrategies.com>",
   "license": "MIT",
